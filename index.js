@@ -14,7 +14,7 @@ export const config = {
     description: 'Configure with preset config.',
     type: 'string',
     default: 'csscomb',
-    enum: ['csscomb', 'zen', 'yandex']
+    enum: ['csscomb', 'zen', 'yandex', 'alphabet']
   },
   configureWithJSON: {
     title: 'Configure with JSON',

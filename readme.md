@@ -28,7 +28,7 @@ To configure with JSON file, put your own `.csscomb.json` to workspace.
 
 ### Configure with preset
 
-To configure with presets (`csscomb`, `zen`, `yandex`), check this.
+To configure with presets (`csscomb`, `zen`, `yandex`, `alphabet`), check this.
 
 ### Execute on Save
 
